@@ -1,4 +1,4 @@
-# 音乐播放器 Web 应用
+<img width="3185" height="1721" alt="首页" src="https://github.com/user-attachments/assets/f9824244-5aab-4bc5-9e60-ddb06eb1c7fe" /><img width="3185" height="1721" alt="首页" src="https://github.com/user-attachments/assets/09452d64-ca49-4302-8d62-3d6e8af9f76f" /># 音乐播放器 Web 应用
 
 基于 React + Redux Toolkit + TypeScript + Ant Design 开发的音乐播放器，实现核心音乐播放、搜索、登录/注册等功能。
 
@@ -29,3 +29,14 @@ npx NeteaseCloudMusicApi@latest
 # 启动项目
 npm run start
 ```
+## 项目展示
+首页
+<img width="3185" height="1721" alt="首页" src="https://github.com/user-attachments/assets/87d08e15-42bd-4f67-bda5-e95701e90d63" />
+<img width="3185" height="1721" alt="首页-下半" src="https://github.com/user-attachments/assets/104ec815-c15a-4912-91c7-c7e4d23203fd" />
+播放音乐
+<img width="3185" height="1721" alt="音乐播放" src="https://github.com/user-attachments/assets/67c8857a-d3d2-4705-b0af-1c8ad0cb0ef9" />
+搜索
+<img width="3185" height="1721" alt="搜索" src="https://github.com/user-attachments/assets/77b64a94-449c-40d6-8081-d677677483e9" />
+搜索结果展示
+<img width="3185" height="1721" alt="搜索结果" src="https://github.com/user-attachments/assets/2fe350bf-f692-404e-9368-162cd4b4242e" />
+
