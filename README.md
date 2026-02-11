@@ -1,4 +1,4 @@
-<img width="3185" height="1721" alt="首页" src="https://github.com/user-attachments/assets/f9824244-5aab-4bc5-9e60-ddb06eb1c7fe" /><img width="3185" height="1721" alt="首页" src="https://github.com/user-attachments/assets/09452d64-ca49-4302-8d62-3d6e8af9f76f" /># 音乐播放器 Web 应用
+## 音乐播放器 Web 应用
 
 基于 React + Redux Toolkit + TypeScript + Ant Design 开发的音乐播放器，实现核心音乐播放、搜索、登录/注册等功能。
 
